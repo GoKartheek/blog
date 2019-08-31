@@ -1,0 +1,19 @@
+/* .container {
+    margin: 100px;
+}
+input {
+    height: 40px;
+    display: block;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+button {
+    width: 200px;
+    height: 40px;
+    background-color: orangered;
+    color: antiquewhite;
+} */
+
+.ex-wrapper {
+    display: flex;
+}
